@@ -1,12 +1,12 @@
 
 body {
   margin: 20px;
-  font-family: font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .avatar {
   width: 150px;
-  border-radius: 5px;
-  border: 2px dotted #FEFAE0;
+  border-radius: 50%;
+  border: 2px dotted #FEAE6F;
 }
  .card {
    width: 400px;
@@ -14,9 +14,9 @@ body {
    justify-content: space-around;
    margin: 0 auto;
    padding: 20px;
-   background-color: #DDA15E;
-   color: #283618;
-   border-bottom: 6px solid #606C38;
+   background-color: #028391;
+   color: #01204E;
+   border-bottom: 6px solid #FEAE6F;
    border-radius: 10px;
    text-align: center;
 }
